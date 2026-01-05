@@ -1,6 +1,6 @@
 ---
 title: 1.2 Vector Spaces
-date: 2026-01-05 15:00:00 +0900
+date: 2026-01-05 09:00:00 +0900
 categories: [Mathematics, Linear Algebra]
 tags: [math, linear algebra, vector space]
 math: true
