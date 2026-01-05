@@ -72,6 +72,7 @@ If $x, y, z \in V$ s.t. $x + z = y + z$, then $x = y$.
 
 **Proof)**
 $\exists v \in V$ s.t. $z + v = 0$ (Additive Inverse).
+Then,
 $$
 \begin{aligned}
 x &= x + 0 = x + (z + v) \\
@@ -95,15 +96,17 @@ In any vector space $V$:
 **Proof of (a): $0x = 0$**
 $$
 0x = (0+0)x = 0x + 0x
-$$
-$$
+
 0x + 0 = 0x + 0x
 $$
+
 By cancellation law (Thm 1.1), $0 = 0x$.
 
 **Proof of (b): $(-a)x = -(ax)$**
 We show that $ax + (-a)x = 0$.
+
 $$
 ax + (-a)x = (a + (-a))x = 0x = 0
 $$
+
 Since the inverse is unique, $(-a)x$ is the additive inverse of $ax$, which is $-(ax)$.
